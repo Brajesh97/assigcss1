@@ -1,0 +1,31 @@
+body{
+    background-color: grey;
+}
+.first{
+    color: red;
+}
+.first1{
+    color: blue;
+    font-style: italic;
+}#css{
+    text-decoration: line-through;
+    font-weight:bold;
+}
+#css1{
+    background-color: yellow;
+    font-weight:bold;
+
+}
+#css2{
+    font-style: italic;
+    text-decoration: underline;
+}
+.css3{
+    background-color: yellow;
+}
+.second{
+    color: goldenrod;
+}
+.third{
+    font-style: calc(66);
+}
